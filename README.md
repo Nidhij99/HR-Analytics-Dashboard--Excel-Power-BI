@@ -20,11 +20,6 @@ This project focuses on analyzing HR data to derive insights regarding employee 
 7. Attrition by Department, Job Role, and Marital Status
 8. Job Satisfaction Ratings
 
-### Dashboard Image Of Excel -
-
-![Excel HR Dashboard - Image](https://github.com/user-attachments/assets/3af9f2b2-d78a-49fd-992e-aff7cc96f3b1)
-
-   
 ### 2. Data Overview
 - The dataset includes multiple columns such as Employee ID, Department, Job Role, Education Field, Attrition Status, Gender, Age, Job Satisfaction Ratings, and more.
 - Total records: 1,470 employee data points.
@@ -55,12 +50,22 @@ This project focuses on analyzing HR data to derive insights regarding employee 
 - Total Employees, Active Employees, Attrition Count, and Attrition Rate.
 - Attrition by Department, Education, Age Group, and Job Role.
 - Gender and Marital Status Breakdown.
+
+### Dashboard Image Of Excel -
+
+![Excel HR Dashboard - Image](https://github.com/user-attachments/assets/4cf3cbea-0ee6-40fd-88c2-90e1c8034214)
+
   
 **Power BI:** Created interactive visuals using pie charts, clustered bar charts, and tables.
 - Visualizations included:
 - Department-wise and Job Role-wise Attrition.
 - Attrition by Age Group and Marital Status.
 - Education Fields Affected by Attrition.
+
+### Dashboard Image Of Power BI -
+
+![Power BI - Hr Dashboard Image](https://github.com/user-attachments/assets/74fc2731-778c-4fc7-a2e7-87114976da05)
+
   
 ### 8. Reports and Dashboard Building
 **Excel Dashboard:** The dashboard was designed to provide HR teams with a quick overview of key metrics, using slicers to filter data based on department or job role.
@@ -80,4 +85,4 @@ Key Findings:
 ### 10.Conclusion
 The analysis provided valuable insights into the factors influencing employee attrition. By focusing on the departments, roles, and demographics most affected, the HR department can create targeted strategies to reduce turnover and improve job satisfaction. Both the Excel and Power BI dashboards serve as tools for monitoring and addressing these issues in real-time.
 
-### Excel Dashboard - 
+ 
