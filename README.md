@@ -19,6 +19,8 @@ This project focuses on analyzing HR data to derive insights regarding employee 
 6. Gender Distribution
 7. Attrition by Department, Job Role, and Marital Status
 8. Job Satisfaction Ratings
+
+### Dashboard Image Of Excel - 
    
 ### 2. Data Overview
 - The dataset includes multiple columns such as Employee ID, Department, Job Role, Education Field, Attrition Status, Gender, Age, Job Satisfaction Ratings, and more.
@@ -75,3 +77,4 @@ Key Findings:
 ### 10.Conclusion
 The analysis provided valuable insights into the factors influencing employee attrition. By focusing on the departments, roles, and demographics most affected, the HR department can create targeted strategies to reduce turnover and improve job satisfaction. Both the Excel and Power BI dashboards serve as tools for monitoring and addressing these issues in real-time.
 
+### Excel Dashboard - 
