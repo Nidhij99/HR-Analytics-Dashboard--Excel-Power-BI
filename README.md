@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on analyzing HR data to derive insights regarding employee attrition, demographics, education levels, job roles, and job satisfaction. The analysis was performed using both Excel and Power BI, with dashboards created in each tool to visualize key metrics. The objective was to identify trends and patterns in employee attrition, with a focus on understanding which factors influence it the most.
 
+![HR-analytics](https://github.com/user-attachments/assets/4fd99ae5-97b7-4d0a-ac32-ced24b70f01f)
+
+
 ## Problem Statement
 **Business Challenge :**  Employee attrition is a critical issue for the HR department. The challenge was to identify the factors contributing to high attrition rates and determine which departments, job roles, education fields, and age groups are most affected. The goal was to use data analytics to provide actionable insights that the HR department could use to reduce turnover and improve employee satisfaction.
 
